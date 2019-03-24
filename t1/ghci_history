@@ -1,0 +1,21 @@
+:q
+dezChar ["Ventilador", "Mouse", "Eduardo Mossmann"]
+betterEncodeName "Eduardo Jank Mossmann"
+encodeName "Eduardo Mossmann"
+userName "Eduardo Jank Mossmann"
+lastName "Eduardo Jank Mossmann"
+isInt "Eduardo 1000"
+isInt "900"
+firstName "Eduardo Mossmann"
+codificaLambda "Rio Grande do Sul"
+codifica "Santa Maria"
+semVogaisLambda "Batata"
+semVogais "Banana"
+semVogais "Eduardo"
+htmlListItemsLambda ["Teste3", "Teste4"]
+htmlListItems ["Teste1", "Teste2"]
+addComma ["Pois", "Entao"]
+isVowel 'b'
+isVowel 'a'
+:l t1.hs
+:q
