@@ -1,0 +1,6 @@
+:q
+genCase4
+genCase3
+genCase2
+genCase1
+:l t2.hs 
