@@ -1,0 +1,41 @@
+Hello. I am ELIZA. How can I help you?
+> Hi, i am Eduardo and i need help to get some points to Paradigmas
+
+What would it mean to you if you got help to get some points to paradigmas?
+> Help me to be creative
+
+Do you say help you to be creative for some special reason?
+> Yes, i dont know exactly what i will do
+
+You seem quite positive.
+> No, im not, i need those points
+
+Are you saying no just to be negative?
+> Yes, im a negative person
+
+You are sure?
+> Yes
+
+I see.
+> Ill leave, bye 	
+
+Please go on.
+> I will not leave, i was kidding
+
+Were you really?
+> Yes hahaha
+
+I understand.
+> You are very smart Eliza
+
+Do you sometimes wish you were very smart eliza?
+> No, you are very smart
+
+Why not?
+> Because i am not Eliza
+
+Is that the real reason?
+> Yes
+
+You seem quite positive.
+> Yes, ill leave now, bye
