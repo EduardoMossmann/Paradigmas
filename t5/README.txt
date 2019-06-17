@@ -1,0 +1,1 @@
+O arquivo de leitura ja está na pasta, não consegui carregá-lo pelo CMD
